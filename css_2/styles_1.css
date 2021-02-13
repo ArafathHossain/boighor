@@ -1,0 +1,339 @@
+.footer_li {
+	font-size:16px;
+	font-family:Cambria;
+	color:#FFFFFF;
+	list-style:none;
+}
+
+.footer_li a {
+	color:#FFFFFF;
+	font-weight:bold;
+}
+
+.footer_li a:hover {
+	color:#000000;
+	text-decoration:none;
+}
+	
+.img_efect:hover {
+    opacity: 0.6;
+   
+}
+
+.img_efect2:hover {
+    opacity: 0.5;
+   
+}
+
+.bg_color_1 {
+  background-color:#39619c !important;
+  border:3px #39619c solid !important;
+  color: #fff !important;
+  width:50px !important;
+  height:41px !important;
+  padding:0px !important;
+}
+  
+  .bg_color_1:hover {
+	background-color:#98c127 !important;
+	color: 39619c !important;
+  
+  }
+  
+.searchfield {
+	height:41px !important;
+	color:#000000 !important;
+	}
+  
+  
+
+<!--hover effect button start-->
+
+.ridht1_btn-6h:hover {
+	background: transparent;
+	color: #226fbe;
+}
+
+.left1_btn {
+	border: none;
+	font-family: inherit;
+	font-size: 13px;
+	color: inherit;
+	background: none;
+	cursor: pointer;
+	padding: 5px 5px;
+	display: inline-block;
+	margin: 0px 0px;
+	letter-spacing: 1px;
+	outline: none;
+	position: relative;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
+}
+
+.left1_btn:after {
+	content: '';
+	position: absolute;
+	z-index: -1;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
+}
+
+.left1_btn-1 {
+	color: #fff;
+	border-radius:4px;
+	border: 2px solid #FF0000;
+}
+
+/* Button 1c */
+.left1_btn-1c:after {
+	width: 0%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	background: #fff;
+}
+
+.left1_btn-1c:hover,
+.left1_btn-1c:active {
+	color: #FF0000;
+}
+
+.left1_btn-1c:hover:after,
+.left1_btn-1c:active:after {
+	width: 100%;
+}
+
+.abc {
+	position: relative;
+	z-index: 0;
+	
+}
+<!--hover effect button end-->
+
+<!--hover effect button 2 start-->
+
+.ridht2_btn-6h:hover {
+	background: transparent;
+	color: #226fbe;
+}
+
+.left2_btn {
+	border: none;
+	font-family: inherit;
+	font-size: 12px;
+	color: inherit;
+	background: none;
+	cursor: pointer;
+	padding: 5px 5px;
+	display: inline-block;
+	margin: 0px 0px;
+	letter-spacing: 1px;
+	font-weight: 700;
+	outline: none;
+	position: relative;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
+}
+
+.left2_btn:after {
+	content: '';
+	position: absolute;
+	z-index: -1;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
+}
+
+.left2_btn-1 {
+	color: #fff;
+	border-radius:4px;
+	border: 2px solid #39619c;
+}
+
+/* Button 1c */
+.left2_btn-1c:after {
+	width: 0%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	background: #fff;
+}
+
+.left2_btn-1c:hover,
+.left2_btn-1c:active {
+	color: #39619c;
+}
+.left2_btn-1up:hover,
+.left2_btn-1up:active {
+	color: #000000;
+}
+
+.left2_btn-1c:hover:after,
+.left2_btn-1c:active:after {
+	width: 100%;
+}
+
+.abc {
+	position: relative;
+	z-index: 0;
+	
+}
+<!--hover effect button 2 end-->
+
+
+.banner_menu_bg {
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#00acee+0,00acee+100&0.5+0,0.5+100 */
+	background: -moz-linear-gradient(top, rgba(0,172,238,0.5) 0%, rgba(0,172,238,0.5) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, rgba(0,172,238,0.5) 0%,rgba(0,172,238,0.5) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, rgba(0,172,238,0.5) 0%,rgba(0,172,238,0.5) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8000acee', endColorstr='#8000acee',GradientType=0 ); /* IE6-9 */
+}
+
+
+.payment_menu {
+	background: -moz-linear-gradient(top, rgba(0,172,238,0.05) 0%, rgba(0,172,238,0.05) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, rgba(0,172,238,0.05) 0%,rgba(0,172,238,0.05) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, rgba(0,172,238,0.05) 0%,rgba(0,172,238,0.05) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	border-bottom: 1px solid #39619c;
+	border-radius: 15px 15px 0px 0px;
+	padding:7px 0px 8px 0px;
+}
+.payment_menu a {
+	padding:10px 20px 10px 20px;
+	text-align:center;
+	color:#39619c;
+	font-size:16px;
+	border-right:1px solid #39619c;
+	margin-bottom:50px;
+	font-style:italic;
+}
+.payment_menu a:hover {
+	color:#FFFFFF;
+	background-color:#39619c;
+	text-decoration:none;
+}
+
+.border:hover {
+	border-radius: 15px 0px 0px 0px;
+}
+
+
+<!--MORE PRODUCTS STYLE-->
+.more_products_style {
+	font-size:20px;
+	font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+	color:#FFFFFF;
+	list-style:none;
+}
+
+.more_products_style a {
+	font-size:20px;
+	font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+	color:#FFFFFF;
+	list-style:none;
+}
+
+.more_products_style a:hover {
+	color:#666666;
+	text-decoration:none;
+}
+
+.conf_btn{
+color:#FFFFFF;
+background-color:#39619c;
+border-radius:5px;
+border-color:#39619c;
+}
+.conf_btn:hover {
+	border:solid 2px #39619c;
+	border-radius: 5px;
+	color:#39619c;
+	background-color:#FFFFFF
+}
+
+.conf_btn_2{
+color:#FFFFFF;
+background-color:#f0ad4e;
+border-radius:5px;
+border-color:#f0ad4e;
+}
+.conf_btn_2:hover {
+	border:solid 2px #39619c;
+	border-radius: 5px;
+	color:#39619c;
+	background-color:#FFFFFF
+}
+
+
+@media (max-width: 600px) {
+.payment_menu {
+	background: -moz-linear-gradient(top, rgba(0,172,238,0.05) 0%, rgba(0,172,238,0.05) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, rgba(0,172,238,0.05) 0%,rgba(0,172,238,0.05) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, rgba(0,172,238,0.05) 0%,rgba(0,172,238,0.05) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	border-bottom: 1px solid #00acee;
+	border-radius: 15px 15px 0px 0px;
+}
+.payment_menu a {
+	padding:10px 5px 10px 5px;
+	text-align:center;
+	color:#00acee;
+	font-size:12px;
+	border-right:1px solid #00acee;
+	margin-bottom:50px;
+	font-style:italic;
+}
+.payment_menu a:hover {
+	color:#FFFFFF;
+	background-color:#00acee;
+	text-decoration:none;
+}
+
+.border:hover {
+	border-radius: 15px 0px 0px 0px;
+}
+}
+
+
+
+.without_payment_button {
+	padding:15px 0px 0px 0px;
+	text-align:center;
+}
+.without_payment_button2 {
+padding:15px 0px 0px 335px;
+color:#39619c;
+}
+
+@media (max-width: 600px) {
+.without_payment_button {
+padding-bottom:10px;
+padding-right:27px;
+text-align:right;
+}
+.without_payment_button2 {
+padding:0px;
+color:#39619c;
+}
+
+.top_banner {
+background:url(../image/hitsbanar2.png) no-repeat;
+padding:10px 0px 10px 0px;
+}
+
+.res_fb {
+padding-left:65px;
+}
+
+.res_slider {
+padding-bottom:10px;
+}
+
+.res_middle {
+padding-top:0px;
+}
+
+}

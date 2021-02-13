@@ -1,0 +1,3 @@
+<meta name="title" content="BD Gadget Shop - #1 website for Shopping in BD With Home Delivery">
+<meta name="description" content=" Online shopping Site in Bangladesh with home delivery. Buy latest mobile phones, cc camera, gadget, home appliances, more at a low price. " >
+<meta name="keywords" content="Online shopping in Bangladesh, Online shopping, bdgadgetshop.com, Mobile phones in Bangladesh, Computer accessories, Electronic  accessories, home electronics, mobile accessories, gadgets, musical instrument,  speaker, smart phone, mobile lens, led tv, smart tv, cc camera, ip camera, all security system, wholesale offers" >
